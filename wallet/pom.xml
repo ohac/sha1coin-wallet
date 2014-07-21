@@ -10,7 +10,7 @@
 	<name>Bitcoin Wallet</name>
 
 	<parent>
-		<groupId>de.schildbach.wallet</groupId>
+		<groupId>ja.ohac.wallet</groupId>
 		<artifactId>base</artifactId>
 		<version>1</version>
 	</parent>
@@ -57,16 +57,16 @@
 			<type>apklib</type>
 		</dependency>
 
-		<!-- com.google.bitcoin.* -->
+		<!-- com.google.sha1coin.* -->
 		<dependency>
 			<groupId>com.google</groupId>
-			<artifactId>bitcoinj</artifactId>
-			<version>0.11.3</version>
+			<artifactId>sha1coinj</artifactId>
+			<version>0.12-SNAPSHOT</version>
 		</dependency>
 
-		<!-- de.schildbach.wallet.integration.android.* -->
+		<!-- de.ohac.wallet.integration.android.* -->
 		<dependency>
-			<groupId>de.schildbach.wallet</groupId>
+			<groupId>ja.ohac.wallet</groupId>
 			<artifactId>integration-android</artifactId>
 			<version>2.0</version>
 		</dependency>
@@ -224,7 +224,7 @@
 				<artifactId>findbugs-maven-plugin</artifactId>
 				<version>2.5.2</version>
 				<configuration>
-					<onlyAnalyze>de.schildbach.wallet.-</onlyAnalyze>
+					<onlyAnalyze>ja.ohac.wallet.-</onlyAnalyze>
 				</configuration>
 			</plugin>
 		</plugins>

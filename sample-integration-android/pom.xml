@@ -10,7 +10,7 @@
 	<name>Sample for Bitcoin Integration for Android</name>
 
 	<parent>
-		<groupId>de.schildbach.wallet</groupId>
+		<groupId>ja.ohac.wallet</groupId>
 		<artifactId>base</artifactId>
 		<version>1</version>
 	</parent>
@@ -33,18 +33,18 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!-- de.schildbach.wallet.integration.android.* -->
+		<!-- ja.ohac.wallet.integration.android.* -->
 		<dependency>
-			<groupId>de.schildbach.wallet</groupId>
+			<groupId>ja.ohac.wallet</groupId>
 			<artifactId>integration-android</artifactId>
 			<version>2.0</version>
 		</dependency>
 
-		<!-- com.google.bitcoin.* -->
+		<!-- com.google.sha1coin.* -->
 		<dependency>
 			<groupId>com.google</groupId>
-			<artifactId>bitcoinj</artifactId>
-			<version>0.11.1</version>
+			<artifactId>sha1coinj</artifactId>
+			<version>0.12-SNAPSHOT</version>
 		</dependency>
 
 	</dependencies>

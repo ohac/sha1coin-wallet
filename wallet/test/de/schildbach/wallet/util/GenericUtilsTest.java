@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package de.schildbach.wallet.util;
+package ja.ohac.wallet.util;
 
 import static org.junit.Assert.assertEquals;
 
@@ -23,7 +23,7 @@ import java.math.BigInteger;
 
 import org.junit.Test;
 
-import com.google.bitcoin.core.NetworkParameters;
+import com.google.sha1coin.core.NetworkParameters;
 
 /**
  * @author Andreas Schildbach
@@ -53,7 +53,7 @@ public class GenericUtilsTest
 		assertEquals("11223344.556678", GenericUtils.formatValue(value, 6, 0));
 		assertEquals("11223344.55667788", GenericUtils.formatValue(value, 8, 0));
 
-		assertEquals("21000000.00", GenericUtils.formatValue(NetworkParameters.MAX_MONEY, 8, 0));
+		assertEquals("21000000.00", GenericUtils.formatValue(BigInteger.valueOf(NetworkParameters.MAX_MONEY.longValue()), 8, 0));
 	}
 
 	@Test
@@ -75,7 +75,7 @@ public class GenericUtilsTest
 		assertEquals("11223344556.68", GenericUtils.formatValue(value, 2, 3));
 		assertEquals("11223344556.6779", GenericUtils.formatValue(value, 4, 3));
 
-		assertEquals("21000000000.00", GenericUtils.formatValue(NetworkParameters.MAX_MONEY, 5, 3));
+		assertEquals("21000000000.00", GenericUtils.formatValue(BigInteger.valueOf(NetworkParameters.MAX_MONEY.longValue()), 5, 3));
 	}
 
 	@Test
@@ -97,6 +97,6 @@ public class GenericUtilsTest
 		assertEquals("11223344556678", GenericUtils.formatValue(value, 0, 6));
 		assertEquals("11223344556677.88", GenericUtils.formatValue(value, 2, 6));
 
-		assertEquals("21000000000000", GenericUtils.formatValue(NetworkParameters.MAX_MONEY, 2, 6));
+		assertEquals("21000000000000", GenericUtils.formatValue(BigInteger.valueOf(NetworkParameters.MAX_MONEY.longValue()), 2, 6));
 	}
 }

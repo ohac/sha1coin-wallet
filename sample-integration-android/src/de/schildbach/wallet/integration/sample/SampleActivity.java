@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package de.schildbach.wallet.integration.sample;
+package ja.ohac.wallet.integration.sample;
 
 import org.bitcoin.protocols.payments.Protos;
 
@@ -31,13 +31,13 @@ import android.widget.RadioButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.bitcoin.core.Address;
-import com.google.bitcoin.core.AddressFormatException;
-import com.google.bitcoin.core.NetworkParameters;
-import com.google.bitcoin.script.ScriptBuilder;
+import com.google.sha1coin.core.Address;
+import com.google.sha1coin.core.AddressFormatException;
+import com.google.sha1coin.core.NetworkParameters;
+import com.google.sha1coin.script.ScriptBuilder;
 import com.google.protobuf.ByteString;
 
-import de.schildbach.wallet.integration.android.BitcoinIntegration;
+import ja.ohac.wallet.integration.android.BitcoinIntegration;
 
 /**
  * @author Andreas Schildbach
