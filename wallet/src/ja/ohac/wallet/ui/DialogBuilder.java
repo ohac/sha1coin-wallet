@@ -27,7 +27,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

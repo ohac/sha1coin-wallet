@@ -58,7 +58,7 @@ import com.google.zxing.common.HybridBinarizer;
 import com.google.zxing.qrcode.QRCodeReader;
 
 import ja.ohac.wallet.camera.CameraManager;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

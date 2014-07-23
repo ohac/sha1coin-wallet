@@ -6,8 +6,8 @@
 
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
-	<version>3.53-test</version>
-	<name>Bitcoin Wallet</name>
+	<version>0.01</version>
+	<name>Sha1coin Wallet</name>
 
 	<parent>
 		<groupId>ja.ohac.wallet</groupId>

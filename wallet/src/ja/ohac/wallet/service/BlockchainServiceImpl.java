@@ -93,7 +93,7 @@ import ja.ohac.wallet.util.CrashReporter;
 import ja.ohac.wallet.util.GenericUtils;
 import ja.ohac.wallet.util.ThrottlingWalletChangeListener;
 import ja.ohac.wallet.util.WalletUtils;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

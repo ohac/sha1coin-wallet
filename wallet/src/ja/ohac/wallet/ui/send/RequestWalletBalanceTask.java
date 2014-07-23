@@ -53,7 +53,7 @@ import com.google.common.io.BaseEncoding;
 
 import ja.ohac.wallet.Constants;
 import ja.ohac.wallet.util.Io;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

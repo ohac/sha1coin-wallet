@@ -43,7 +43,7 @@ import ja.ohac.wallet.Configuration;
 import ja.ohac.wallet.Constants;
 import ja.ohac.wallet.WalletApplication;
 import ja.ohac.wallet.util.CrashReporter;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

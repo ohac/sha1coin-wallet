@@ -80,7 +80,7 @@ import ja.ohac.wallet.util.Nfc;
 import ja.ohac.wallet.util.Qr;
 import ja.ohac.wallet.util.ThrottlingWalletChangeListener;
 import ja.ohac.wallet.util.WalletUtils;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

@@ -27,7 +27,7 @@ import com.actionbarsherlock.app.ActionBar;
 import com.google.sha1coin.core.ECKey;
 
 import ja.ohac.wallet.ui.AbstractBindServiceActivity;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

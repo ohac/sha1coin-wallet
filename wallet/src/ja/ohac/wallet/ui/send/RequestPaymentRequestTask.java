@@ -44,7 +44,7 @@ import ja.ohac.wallet.data.PaymentIntent;
 import ja.ohac.wallet.ui.InputParser;
 import ja.ohac.wallet.util.Bluetooth;
 import ja.ohac.wallet.util.PaymentProtocol;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

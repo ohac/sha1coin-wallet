@@ -53,7 +53,7 @@ import ja.ohac.wallet.ui.ScanActivity;
 import ja.ohac.wallet.ui.TransactionsListAdapter;
 import ja.ohac.wallet.util.GenericUtils;
 import ja.ohac.wallet.util.WalletUtils;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Maximilian Keller

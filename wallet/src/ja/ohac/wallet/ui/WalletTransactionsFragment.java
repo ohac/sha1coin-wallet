@@ -27,7 +27,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import ja.ohac.wallet.ui.TransactionsListFragment.Direction;
 import ja.ohac.wallet.util.ViewPagerTabs;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

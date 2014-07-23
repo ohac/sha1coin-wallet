@@ -30,7 +30,7 @@ import com.google.sha1coin.core.VersionMessage;
 
 import ja.ohac.wallet.Constants;
 import ja.ohac.wallet.WalletApplication;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

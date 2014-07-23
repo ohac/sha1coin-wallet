@@ -68,7 +68,7 @@ import ja.ohac.wallet.service.BlockchainServiceImpl;
 import ja.ohac.wallet.util.CrashReporter;
 import ja.ohac.wallet.util.Io;
 import ja.ohac.wallet.util.LinuxSecureRandom;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

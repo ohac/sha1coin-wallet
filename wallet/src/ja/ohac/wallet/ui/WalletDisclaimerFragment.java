@@ -38,7 +38,7 @@ import android.widget.TextView;
 import ja.ohac.wallet.Configuration;
 import ja.ohac.wallet.WalletApplication;
 import ja.ohac.wallet.service.BlockchainService;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

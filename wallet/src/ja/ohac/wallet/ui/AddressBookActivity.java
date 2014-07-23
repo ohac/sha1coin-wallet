@@ -38,7 +38,7 @@ import com.google.sha1coin.core.ECKey;
 
 import ja.ohac.wallet.Constants;
 import ja.ohac.wallet.util.ViewPagerTabs;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

@@ -49,7 +49,7 @@ import com.google.common.base.Charsets;
 import ja.ohac.wallet.Constants;
 import ja.ohac.wallet.util.CrashReporter;
 import ja.ohac.wallet.util.Io;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

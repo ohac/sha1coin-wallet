@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
-	package="ja.ohac.wallet_test"
+	package="ja.ohac.wallet2"
 	android:installLocation="internalOnly"
-	android:versionCode="174"
-	android:versionName="3.53-test" >
+	android:versionCode="1"
+	android:versionName="0.01" >
 
 	<uses-sdk
 		android:minSdkVersion="10"
@@ -182,11 +182,11 @@
 
 		<provider
 			android:name="ja.ohac.wallet.AddressBookProvider"
-			android:authorities="ja.ohac.wallet_test.address_book"
+			android:authorities="ja.ohac.wallet.address_book"
 			android:exported="false" />
 		<provider
 			android:name="ja.ohac.wallet.ExchangeRatesProvider"
-			android:authorities="ja.ohac.wallet_test.exchange_rates"
+			android:authorities="ja.ohac.wallet.exchange_rates"
 			android:exported="false" />
 
 		<receiver

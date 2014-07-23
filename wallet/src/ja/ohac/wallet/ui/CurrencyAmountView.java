@@ -47,7 +47,7 @@ import com.google.sha1coin.core.Transaction;
 import ja.ohac.wallet.Constants;
 import ja.ohac.wallet.util.GenericUtils;
 import ja.ohac.wallet.util.WalletUtils;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

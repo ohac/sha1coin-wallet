@@ -30,7 +30,7 @@ import com.actionbarsherlock.view.MenuItem;
 import ja.ohac.wallet.data.PaymentIntent;
 import ja.ohac.wallet.ui.AbstractBindServiceActivity;
 import ja.ohac.wallet.ui.HelpDialogFragment;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

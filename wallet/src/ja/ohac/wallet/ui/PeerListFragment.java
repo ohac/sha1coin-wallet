@@ -56,7 +56,7 @@ import com.google.sha1coin.core.VersionMessage;
 import ja.ohac.wallet.service.BlockchainService;
 import ja.ohac.wallet.service.BlockchainServiceImpl;
 import ja.ohac.wallet.util.WholeStringBuilder;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

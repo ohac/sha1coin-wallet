@@ -50,7 +50,7 @@ import ja.ohac.wallet.data.PaymentIntent;
 import ja.ohac.wallet.util.Io;
 import ja.ohac.wallet.util.PaymentProtocol;
 import ja.ohac.wallet.util.Qr;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

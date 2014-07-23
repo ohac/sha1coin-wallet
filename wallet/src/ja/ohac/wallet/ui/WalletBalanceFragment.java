@@ -50,7 +50,7 @@ import ja.ohac.wallet.ExchangeRatesProvider.ExchangeRate;
 import ja.ohac.wallet.WalletApplication;
 import ja.ohac.wallet.service.BlockchainService;
 import ja.ohac.wallet.util.WalletUtils;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

@@ -27,7 +27,7 @@ import com.google.sha1coin.core.NetworkParameters;
 import com.google.sha1coin.params.MainNetParams;
 import com.google.sha1coin.params.TestNet3Params;
 
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

@@ -42,7 +42,7 @@ import android.os.Looper;
 import ja.ohac.wallet.Constants;
 import ja.ohac.wallet.util.Bluetooth;
 import ja.ohac.wallet.util.PaymentProtocol;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach

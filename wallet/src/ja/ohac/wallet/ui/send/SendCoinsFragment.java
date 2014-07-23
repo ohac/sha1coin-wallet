@@ -116,7 +116,7 @@ import ja.ohac.wallet.util.GenericUtils;
 import ja.ohac.wallet.util.Nfc;
 import ja.ohac.wallet.util.PaymentProtocol;
 import ja.ohac.wallet.util.WalletUtils;
-import ja.ohac.wallet_test.R;
+import ja.ohac.wallet.R;
 
 /**
  * @author Andreas Schildbach
